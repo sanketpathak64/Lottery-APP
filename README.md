@@ -1,6 +1,5 @@
 # Lottery-APP
-This is a simple blockchain based project in which users can enter into contract by paying certain amount of fee and manager has access to select a random winner. All amount in contract is transferred to winner.                                                         
-#This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple blockchain based project in which users can enter into contract by paying certain amount of fee and manager has access to select a random winner. All amount in contract is transferred to winner. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
